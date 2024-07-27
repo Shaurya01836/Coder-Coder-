@@ -18,7 +18,7 @@ Welcome to **Coder-Coder**, a repository filled with various coding projects, ex
 ## Introduction
 **Coder-Coder** is a collection of coding projects designed to help you practice and enhance your coding skills. This repository includes projects in multiple programming languages, along with detailed instructions and resources.
 
-![Project Overview](assets/Screenshot%20(6912).png)
+![Project Overview](/Screenshot%20(692).png)
 
 ## Features
 - Projects in various programming languages (e.g., Python, JavaScript, C++)
