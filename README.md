@@ -1,9 +1,12 @@
+Great! Let's add those images to the README file. Assuming you place these images in an `assets` folder within your repository, here's the updated README file with the correct image paths:
 
 ---
 
 # Coder-Coder
 
 Welcome to **Coder-Coder**, a repository filled with various coding projects, exercises, and resources to help you improve your programming skills.
+
+![Banner](Screenshot%20(691).png)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,6 +17,8 @@ Welcome to **Coder-Coder**, a repository filled with various coding projects, ex
 
 ## Introduction
 **Coder-Coder** is a collection of coding projects designed to help you practice and enhance your coding skills. This repository includes projects in multiple programming languages, along with detailed instructions and resources.
+
+![Project Overview](assets/Screenshot%20(6912).png)
 
 ## Features
 - Projects in various programming languages (e.g., Python, JavaScript, C++)
@@ -39,7 +44,7 @@ To get started with the projects in this repository, follow these steps:
 ## Usage
 Each project folder contains detailed instructions on how to run and use the project. Refer to the `README.md` file within each project folder for specific details.
 
-
+![Usage Example](assets/Screenshot%20(6912).png)
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to me:
