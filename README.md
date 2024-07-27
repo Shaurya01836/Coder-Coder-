@@ -6,7 +6,7 @@ Great! Let's add those images to the README file. Assuming you place these image
 
 Welcome to **Coder-Coder**, a repository filled with various coding projects, exercises, and resources to help you improve your programming skills.
 
-![Banner](Screenshot%20(691).png)
+![Banner](Screenshot (691).png)
 
 ## Table of Contents
 - [Introduction](#introduction)
